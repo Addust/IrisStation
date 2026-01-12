@@ -103,3 +103,9 @@ endmap
 map oshan
 	votable
 endmap
+
+##IRIS STATION MAPS
+
+map earthbleeder
+    votable
+endmap

@@ -33,6 +33,7 @@
 		// IRIS EDIT START
 		#include "map_files\KiloStation\KiloStation.dmm"
 		#include "map_files\Oshan\Oshan.dmm"
+		#include "map_files\Earthbleeder\Earthbleeder.dmm"
 		// IRIS EDIT END
 	#endif
 	#ifdef ALL_TEMPLATES
